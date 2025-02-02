@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 Here are 15 problem questions that will help me strengthen my programming basics in C, C++, JavaScript, and Python. These problems cover essential concepts like loops, conditionals, functions, arrays, strings, file handling, and more.
+=======
+Here are some problem questions that will help me strengthen my programming basics in C, C++, JavaScript, and Python. These problems cover essential concepts like loops, conditionals, functions, arrays, strings, file handling, and more.
+>>>>>>> 9d7cb7f70d39c249e86a4effa404ce698e268fd8
 
 ### **Basic Programming Problems**
 

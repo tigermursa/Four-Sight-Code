@@ -1,0 +1,11 @@
+# Ignore C and C++ source files
+*.c
+*.cpp
+*.h
+*.hpp
+
+# Ignore object files and executables
+*.o
+*.obj
+*.exe
+*.out

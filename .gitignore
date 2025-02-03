@@ -1,6 +1,5 @@
 # Ignore C and C++ source files
-*.c
-*.cpp
+
 *.h
 *.hpp
 

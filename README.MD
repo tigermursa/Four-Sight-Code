@@ -8,7 +8,7 @@ Here are 15 problem questions that will help me strengthen my programming basics
 2. **Sum of Two Numbers** (Solved)
    Write a program to take two numbers as input and output their sum.
 
-3. **Factorial of a Number**  
+3. **Factorial of a Number** (Solved)  
    Write a program to calculate the factorial of a given number using both iterative and recursive methods.
 
 4. **Check Prime Number**  

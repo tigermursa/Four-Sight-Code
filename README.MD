@@ -2,7 +2,7 @@ Here are 15 problem questions that will help me strengthen my programming basics
 
 ### **Basic Programming Problems**
 
-1. **Hello World with User Input** (C)
+1. **Hello World with User Input** (C,C++,Js,Py)
    Write a program that takes the user's name as input and prints "Hello, [Name]!".
 
 2. **Sum of Two Numbers**  
